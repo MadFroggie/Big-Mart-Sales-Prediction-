@@ -2,13 +2,6 @@
 
 This project predicts how much each product will sell at different BigMart stores.
 
-We use a machine learning model to look at things like:
-- What the product is
-- How much it costs
-- Where it’s sold
-- How big the store is
-- And more...
-
 ##  Files in this project
 
 - `train.csv` – Old sales data (used to train the model)
@@ -33,15 +26,6 @@ We use a machine learning model to look at things like:
 - pandas
 - numpy
 - scikit-learn
-
-## Submission format
-
-Your predictions should look like this:
-
-| Item_Identifier | Outlet_Identifier | Item_Outlet_Sales |
-|------------------|-------------------|-------------------|
-| FDA15            | OUT049            | 1798.39           |
-| DRC01            | OUT018            | 765.67            |
 
 ##  How to run
 
